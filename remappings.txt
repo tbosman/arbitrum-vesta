@@ -1,3 +1,5 @@
 ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
 vesta-procotol=submodules/vesta-protocol-v1/contracts/TroveManager.sol
+@openzeppelin/contracts-upgradeable/=./lib/openzeppelin-contracts/
+
