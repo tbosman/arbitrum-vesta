@@ -3,4 +3,6 @@ forge-std/=lib/forge-std/src/
 vesta-procotol=submodules/vesta-protocol-v1/contracts/TroveManager.sol
 @openzeppelin/contracts/=./lib/openzeppelin-contracts/contracts/
 @openzeppelin/contracts-upgradeable/=./lib/openzeppelin-contracts-upgradeable/contracts/
+@chainlink/=./lib/chainlink/
+
 
